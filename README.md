@@ -1,9 +1,9 @@
 # My-CRC-Generator
 
-#Aamir Akhtar:
+# Aamir Akhtar:
 This file contains a custom created header, a text file for input, a cpp code and binary output file.
 
-#Code explaination
+# Code explaination
 
 Step 1: Upon execution, it asks user for data choice. User can choose from three options. Predefined data, random data or data from text file.
 
